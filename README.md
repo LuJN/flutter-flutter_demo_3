@@ -1,0 +1,2 @@
+# flutter-flutter_demo_3
+flutter模块aar方式集成到android原生项目中
